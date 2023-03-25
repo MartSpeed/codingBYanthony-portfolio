@@ -43,3 +43,17 @@ Hello my name is John Anthony. The goal of this current project is to create my 
 - background-color: aquamarine;
 - color: white;
 - border: solid 5px green;
+---
+<br>
+
+### **TROUBLESHOOTING**
+<p>This is for all the area where I had trouble and I looked up the information. I will record all links and references here.</p>
+
+---
+
+#### [issue0001]
+<p>The “fatal: refusing to merge unrelated histories” Git error<p>
+
+[Solution](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error)
+
+---

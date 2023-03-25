@@ -1,6 +1,5 @@
 html{
     margin: 15px;
     padding: 0;
-    background-color: aquamarine;
-    border: 5px solid green;
+    background-color: rgba(0,0,0,0.9);
 }

@@ -4,7 +4,7 @@ import './input.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Header from "./components/Header/Header.component"
+import Title from "./components/Title/Title.component"
 import AboutMe from "./components/AboutMe/AboutMe.component"
 import Navbar from './components/Navigation/nav.component';
 import Footer from './components/Footer/Footer.component';
@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <Header />
+    <Title />
     <Navbar />
     <AboutMe />
     <Footer />

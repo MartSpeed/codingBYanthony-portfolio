@@ -4,8 +4,8 @@ import './input.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Header from "./components/Header/Header.component.js"
-import Container from "./components/AboutUs/AboutUs.component"
+import Header from "./components/Header/Header.component"
+import AboutMe from "./components/AboutMe/AboutMe.component"
 import Navbar from './components/Navigation/nav.component';
 import Footer from './components/Footer/Footer.component';
 
@@ -15,7 +15,7 @@ root.render(
     <App />
     <Header />
     <Navbar />
-    <Container />
+    <AboutMe />
     <Footer />
   </React.StrictMode>
 );

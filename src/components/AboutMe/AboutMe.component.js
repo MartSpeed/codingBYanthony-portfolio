@@ -9,7 +9,7 @@ export default function AboutMe() {
         <div className='flex flex-row mt-4'>
             <div className='h-screen w-screen h-full text-white m-75 p-8'>
                 <h1 className='text-2xl font-bold text-neutral-300'>About Me</h1>
-                <p className='mt-4 text-green-700'>
+                <p className='mt-4 text-green-700 text-lg font-semibold'>
                     Ad culpa non amet ex anim labore. Ipsum dolor qui irure id 
                     consectetur magna sunt veniam sunt. Et pariatur enim ad 
                     exercitation cillum deserunt non exercitation do amet 
@@ -20,13 +20,13 @@ export default function AboutMe() {
                     voluptate sunt sit velit nulla. Aliquip ut et do sit 
                     consequat veniam ea ut aute excepteur do eu mollit
                     dolore. Mollit sunt et reprehenderit labore pariatur in
-                    non ullamco ipsum et pariatur.Deserunt aliquip deserunt 
+                    non ullamco ipsum et pariatur. Deserunt aliquip deserunt 
                     ad ea esse deserunt tempor. Velit elit cupidatat ea et ad 
                     ex anim officia ut eiusmod irure velit consectetur. Duis 
                     fugiat pariatur elit esse Lorem exercitation minim exercitation culpa.
                 </p>
-                <p className='mt-4 text-green-700'>
-                    Ad culpa non amet ex anim labore.Ipsum dolor qui irure id 
+                <p className='mt-4 text-green-700 text-lg font-semibold'>
+                    Ad culpa non amet ex anim labore. Ipsum dolor qui irure id 
                     consectetur magna sunt veniam sunt. Et pariatur enim ad 
                     exercitation cillum deserunt non exercitation do amet 
                     pariatur non dolore elit. Eiusmod velit adipisicing anim 

@@ -6,12 +6,14 @@ import reportWebVitals from './reportWebVitals';
 
 import Header from "./components/Header/Header.component.js"
 import Container from "./components/AboutUs/AboutUs.component"
+import Navbar from './components/Navigation/nav.component';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
     <Header />
+    <Navbar />
     <Container />
   </React.StrictMode>
 );

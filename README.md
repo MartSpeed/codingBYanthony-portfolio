@@ -31,9 +31,15 @@ Hello my name is John Anthony. The goal of this current project is to create my 
 
 ``` codingBYanthony ```
 
-- NAV: About Us, Portfoli
-- ABOUT US: content, 2 paragraphs
-- FOOTER: Twitch, Youtube, GitHub, LinkedIn handles
+- NAV: About Us, Portfolio
+## ABOUT US
+- content, 2 paragraphs
+## FOOTER WITH BREADCRUMBS
+- Twitch
+- Youtube
+- GitHub
+- LinkedIn
 ## CSS PROPERTIES
 - background-color: aquamarine;
 - color: white;
+- border: solid 5px green;

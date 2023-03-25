@@ -14,11 +14,11 @@ export default function Footer(){
     return(
         <div>
             <ul className = 'flex flex-row space-x-1 place-content-center'>
-                <li>Github</li>
+                <li className='font-bold text-white'>Github</li>
                 <li>|</li>
-                <li>Twitch</li>
+                <li className='font-bold text-white'>Twitch</li>
                 <li>|</li>
-                <li>LinkedIn</li>
+                <li className='font-bold text-white'>LinkedIn</li>
             </ul>
         </div>
     )

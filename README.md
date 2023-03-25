@@ -35,9 +35,8 @@ Hello my name is John Anthony. The goal of this current project is to create my 
 ## ABOUT US
 - content, 2 paragraphs
 ## FOOTER WITH BREADCRUMBS
-- Twitch
-- Youtube
 - GitHub
+- Twitch
 - LinkedIn
 ## CSS PROPERTIES
 - background-color: aquamarine;

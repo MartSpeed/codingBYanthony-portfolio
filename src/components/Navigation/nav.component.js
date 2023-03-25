@@ -4,7 +4,10 @@ import React from 'react'
 export default function Navbar() {
     return (
         <div>
-            NAV BAR CONTENT
+            <ul>
+                <li>About Us</li>
+                <li>Portfolio</li>
+            </ul>
         </div>
     )
 }

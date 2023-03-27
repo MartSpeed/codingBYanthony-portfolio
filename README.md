@@ -1,10 +1,9 @@
 # codingBYanthony
 <p>
-Hello my name is John Anthony. The goal of this current project is to create my portolfio website. Publish my site using github pages as a first start and adding my 5 projects to the site to view. The first of these projects, I am going to build a Delta clone. I have always loved planes, traveling and what better way to test my skills than to use a popular airline. I hope you enjoy what you see.
+Hello my name is John Anthony. The goal of this project is to create my portfolio, but more importantly find my portfolio style. I plan to publish my site using github pages and adding 5 projects to the site to view. The first project goal is to build a Delta.com website clone. I have always loved planes & traveling and what better way to test my skills than to use a popular airline. I hope you enjoy my experiences.
 </p>
 
 ## FONTS
-1. Permanent Marker HTML & CSS for header/footer
 ```
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,7 +34,9 @@ font-family: 'Permanent Marker', cursive;
 
 ``` codingBYanthony ```
 
-- NAV: About Us, Portfolio
+## NAV
+- About Me page
+- Portfolio projects
 ## ABOUT US
 - content, 2 paragraphs
 ## FOOTER WITH BREADCRUMBS

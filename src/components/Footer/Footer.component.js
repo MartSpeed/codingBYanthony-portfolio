@@ -22,7 +22,7 @@ const breadcrumbHandler = footerBreadcrumbsModel.map(crumbLinks => {
 
 export default function Footer(){
     return(
-        <div className='flex flex-row space-x-1 place-content-center font-semibold text-white'>
+        <div className='flex flex-row space-x-1 place-content-center font-bold text-neutral-300'>
             {breadcrumbHandler}
         </div>
     )

@@ -20,9 +20,11 @@ const breadcrumbHandler = footerBreadcrumbsModel.map(crumbLinks => {
     return <ul><li>{crumbLinks}</li></ul>
 })
 
+const tailwindHandler = 'flex flex-row space-x-1 place-content-center font-bold text-neutral-300';
+
 export default function Footer(){
     return(
-        <div className='flex flex-row space-x-1 place-content-center font-bold text-neutral-300'>
+        <div className={tailwindHandler}>
             {breadcrumbHandler}
         </div>
     )

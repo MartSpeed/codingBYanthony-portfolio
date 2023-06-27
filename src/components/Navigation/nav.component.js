@@ -12,9 +12,11 @@ const navbarHandler = navbarModel.map(navlink => {
     return <ul><li>{navlink}</li></ul>
 })
 
+const tailwindHandler = 'mt-3 flex flex-row space-x-2 place-content-center font-bold text-neutral-300'
+
 export default function Navbar() {
     return (
-        <div className='mt-3 flex flex-row space-x-2 place-content-center font-bold text-neutral-300'>
+        <div className={tailwindHandler}>
             {navbarHandler}
         </div>
     )

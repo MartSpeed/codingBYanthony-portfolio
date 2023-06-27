@@ -12,11 +12,12 @@ export default function AboutMe() {
                 <p className='mt-4 text-green-700 text-lg font-semibold'>
                     Hello my name is John Anthony. My current goal is to 
                     development web applications, full stack websites & game 
-                    development. I plan to publish my site using github pages
-                    and adding 5 100+ hour projects to this site. The first 
-                    project in development is a Delta.com website clone. 
-                    I love aircraft & traveling, using this passion for 
-                    the project design will test my skills by creating a
+                    development using Javascript as my primary language. 
+                    I will publish my site using github pages & Netlify
+                    and 5 100+ hour projects to this site. The first 
+                    project in development is a manga app shared app. 
+                    I love all facets of media & using this idea for 
+                    the project design, will test my skills by creating a
                     working project environment that mimics the final product.
                     Please enjoy my creations, just as much as I had fun creating 
                     them.😊

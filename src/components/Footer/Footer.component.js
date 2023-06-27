@@ -10,16 +10,20 @@ import React from 'react'
  * 
  */
 
+const footerBreadcrumbsModel = [
+    'Github',
+    'Twitch',
+    'LinkedIn'
+]
+
+const breadcrumbHandler = footerBreadcrumbsModel.map(crumbLinks => {
+    return <ul><li>{crumbLinks}</li></ul>
+})
+
 export default function Footer(){
     return(
-        <div>
-            <ul className = 'flex flex-row space-x-1 place-content-center'>
-                <li className='font-bold text-neutral-300'>Github</li>
-                <li>|</li>
-                <li className='font-bold text-neutral-300'>Twitch</li>
-                <li>|</li>
-                <li className='font-bold text-neutral-300'>LinkedIn</li>
-            </ul>
+        <div className='flex flex-row space-x-1 place-content-center font-semibold text-white'>
+            {breadcrumbHandler}
         </div>
     )
 }
